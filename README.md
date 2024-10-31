@@ -30,5 +30,5 @@ Welcome to the Decentralized Chat App! This application allows users to communic
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/decentralized-chat-app.git
-cd decentralized-chat-app
+git clone https://github.com/prahik287/DeChat.git
+cd DeChat
